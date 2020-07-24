@@ -11,5 +11,5 @@ for i in range(11): #outer loop
     #check the lists to see if the values for i and j are even
     elif i in odd and j in odd:
       print("i and j are odd")
-
+#part 3 is magically working now
     
